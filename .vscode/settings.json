@@ -1,0 +1,8 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\pc\\Downloads\\jar_files\\bridj-0.7.0.jar",
+        "c:\\Users\\pc\\Downloads\\jar_files\\slf4j-api-1.7.2.jar",
+        "c:\\Users\\pc\\Downloads\\jar_files\\webcam-capture-0.3.12.jar"
+    ]
+}
